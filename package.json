@@ -1,0 +1,24 @@
+{
+  "name": "datastore-entity",
+  "version": "0.0.1",
+  "description": "Utility Class for Google Datastore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aubrian-halili/datastore-entity.git"
+  },
+  "keywords": [
+    "google",
+    "datastore",
+    "entity"
+  ],
+  "author": "Aubrian Halili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aubrian-halili/datastore-entity/issues"
+  },
+  "homepage": "https://github.com/aubrian-halili/datastore-entity#readme"
+}
