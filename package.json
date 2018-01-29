@@ -23,6 +23,7 @@
   "homepage": "https://github.com/aubrian-halili/datastore-entity#readme",
   "dependencies": {
     "@google-cloud/datastore": "1.3.3",
+    "@google-cloud/pubsub": "0.16.2",
     "lodash": "4.17.4"
   },
   "devDependencies": {
